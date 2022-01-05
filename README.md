@@ -15,7 +15,7 @@
 </p>
   
   
-![nomadkim's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
+![nomadkim's github stats](https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&theme=tokyonight)
 
 
 # Skills
