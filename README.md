@@ -12,11 +12,9 @@
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-
-![nomadkim's github stats](https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&theme=swift)
-  <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=swift)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)
+  
+ 
 
 
   
