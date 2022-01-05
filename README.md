@@ -10,10 +10,21 @@
   We are working on it based on Python DJango.<br/><br/>
   I enjoy squash, Baduk and computer game. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
-</p>  
-![nomadkim's github stats](https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&theme=tokyonight)
+</p>
+
+
+![nomadkim's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=swift)
+  <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=swift)
+
+
+
+  
+  
+
 ## Platforms & Languages
-<p>  
+<p>
+  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -29,7 +40,7 @@
       <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
 </p>
-# Tools
+
 <p>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
