@@ -13,6 +13,10 @@
   I enjoy squash, Baduk and computer game. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
+  
+  
+![nomadkim's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
+
 
 # Skills
 ## Platforms & Languages
