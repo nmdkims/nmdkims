@@ -11,16 +11,14 @@
 - 📝[Resume](https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80/)
 
 ## :pushpin: GitHub Stats & Top Languages:
-[![KIM HOON HEE's github stats](https://github-readme-stats.vercel.app/api?username=nmdkims&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/nmdkims)
+[![KIM HOON HEE's github stats](https://github-readme-stats.vercel.app/api?username=nmdkims&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/nmdkims)
 
 ## :desktop_computer: Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nmdkims)]
-(https://solved.ac/nmdkims/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nmdkims)
 
 
-
-![Metrics](/github-metrics.svg)
+<!-- 
+![Metrics](/github-metrics.svg) -->
 
 ## ⚡ Technologies
 
