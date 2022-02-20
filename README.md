@@ -1,14 +1,13 @@
-![snake gif](https://github.com/nmdkims/nmdkims/blob/output/github-contribution-grid-snake.svg)
 ## Hi there 👋
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- 🔭 I’m currently working on factory manager but now i wanna be a web programmer
-- 👯 I always enjoy work and code studying
-- 📫 How to reach me: ![https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80/"](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white) 
-- 😄 Pronouns: He/him
+<!-- - 🔭 I’m currently working on factory manager but now i wanna be a web programmer
+- 👯 I always enjoy work and code studying -->
+- 📫 If you have any doubt pls contact me : <div align=center> <p> <a href="https://dawnpast12.tistory.com/category/TIL" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> <a href="mailto:nmdkims@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nmdkims@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80//" target="_blank"><img src="https://img.shields.io/badge/nmdkims-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> </p>
+<!-- - 😄 Pronouns: He/him
 - 💬 Ask me anything
 - 🌱 I’m currently learning AI and embeded software
-- 📝[Resume](https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80/)
+- 📝[Resume](https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80/) -->
 
 ## :pushpin: GitHub Stats & Top Languages:
 [![KIM HOON HEE's github stats](https://github-readme-stats.vercel.app/api?username=nmdkims&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/nmdkims)
@@ -44,6 +43,7 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy)
 
+![snake gif](https://github.com/nmdkims/nmdkims/blob/output/github-contribution-grid-snake.svg)
 
 ## :nerd_face: A geek joke for you: 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
