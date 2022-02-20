@@ -10,8 +10,15 @@
 - 🌱 I’m currently learning AI and embeded software
 - 📝[Resume](https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80/)
 
-## :pushpin: My GitHub Stats
+## :pushpin: GitHub Stats & Top Languages:
 [![KIM HOON HEE's github stats](https://github-readme-stats.vercel.app/api?username=nmdkims&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/nmdkims)
+
+## :desktop_computer: Solved.ac Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nmdkims)]
+(https://solved.ac/nmdkims/)
+
+
 
 ![Metrics](/github-metrics.svg)
 
@@ -38,12 +45,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy)
-
-
-
-## :desktop_computer: My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/nmdkims)
-
 
 
 ## :nerd_face: A geek joke for you: 
