@@ -1,49 +1,48 @@
-## Hi there 👋
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<h1 align="center">Hi 👋, I'm KIM HOON HEE</h1>
+<h3 align="center">I am a Back-end developer who enjoys</h3>
 
-<!-- - 🔭 I’m currently working on factory manager but now i wanna be a web programmer
-- 👯 I always enjoy work and code studying -->
-- 📫 If you have any doubt pls contact me : <div align=center> <p> <a href="https://dawnpast12.tistory.com/category/TIL" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> <a href="mailto:nmdkims@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nmdkims@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80//" target="_blank"><img src="https://img.shields.io/badge/nmdkims-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> </p>
-<!-- - 😄 Pronouns: He/him
-- 💬 Ask me anything
-- 🌱 I’m currently learning AI and embeded software
-- 📝[Resume](https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80/) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmdkims&label=Profile%20views&color=0e75b6&style=flat" alt="nmdkims" /> </p>
 
-## :pushpin: GitHub Stats & Top Languages:
-[![KIM HOON HEE's github stats](https://github-readme-stats.vercel.app/api?username=nmdkims&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/nmdkims)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmdkims" alt="nmdkims" /></a> </p>
 
-## :desktop_computer: Solved.ac Profile
+- 🔭 I’m currently complete. [Wanted pre-onboarding course](https://github.com/pre-onboarding-3rd-team-H)
+
+- 🌱 I’m currently learning **Django rest framework**
+
+- 👯 before this program i complete sparta coding club. [AI Web track](https://github.com/4-tune-studio/greendoor)
+
+- 🤝 I have an unusual career. [Special Experience](https://www.worldkorean.net/news/articleView.html?idxno=34131)
+
+- 👨‍💻 All of my projects are available at [http://kimhoonhee.com/](http://kimhoonhee.com/)
+
+- 📝 I regularly write articles on [https://dawnpast12.tistory.com/](https://dawnpast12.tistory.com/)
+
+- 💬 Ask me about **Python, Django, Django rest framework**
+
+- 📫 How to reach me **nmdkims@gmail.com**
+
+- 📄 Know about my experiences [https://nmdkims.github.io/resume.pdf](https://nmdkims.github.io/resume.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nmdkims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nmdkims" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmdkims&show_icons=true&locale=en&layout=compact" alt="nmdkims" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&locale=en" alt="nmdkims" /></p>
+
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nmdkims)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmdkims&" alt="nmdkims" /></p>
 
 
-<!-- 
-![Metrics](/github-metrics.svg) -->
 
-## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/django%20-%23092E20.svg?logo=django&style=flat-square&logoColor=white)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat-square&logo=sqlite&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras)
-![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy)
+<!-- ![Metrics](/github-metrics.svg) -->
 
 ![snake gif](https://github.com/nmdkims/nmdkims/blob/output/github-contribution-grid-snake.svg)
 
-## :nerd_face: A geek joke for you: 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
