@@ -33,11 +33,11 @@
 
 #
 ![KIMHOONHEE's github stats](https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&locale=en&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&show_icons=true&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&langs_count=10&layout=compact)
 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nmdkims)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmdkims&" alt="nmdkims" /></p>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nmdkims)
 
 
 
