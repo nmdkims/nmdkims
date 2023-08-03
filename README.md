@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmdkims" alt="nmdkims" /></a> </p>
 
-- 🚀 I'm putting my passion into the Linkerverse right now! [LINKERVERSE](https://www.linkerverse.net/)
+- 🚀 I'm putting my passion into the Linkerverse right now! [TEACHERLINE](https://www.teacherline.net/)
 
 - 🔭 I’m currently complete. [Wanted pre-onboarding course](https://github.com/pre-onboarding-3rd-team-H)
 
