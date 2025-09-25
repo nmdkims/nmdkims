@@ -11,12 +11,6 @@
 - [**Hamaroom**](https://hamaroom.com)  
   → 개인 맞춤형 교사용 업무경감 AI 에이전트
 
-- [**Greendoor (AI Web Track)**](https://github.com/4-tune-studio/greendoor)  
-  → AI 기반 콘텐츠 추천 웹 앱 (스파르타 코딩클럽 팀 프로젝트)
-
-- [**Wanted Pre-Onboarding Course**](https://github.com/pre-onboarding-3rd-team-H)  
-  → 실전 팀 협업 경험 프로젝트
-
 ---
 
 ## 💼 Career & Unique Journey
