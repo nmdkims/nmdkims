@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm KIM HOON HEE</h1>
+<h1 align="center">KIM HOON HEE</h1>
 <h3 align="center">Back-end Developer focused on product-driven architecture</h3>
 
 ---
