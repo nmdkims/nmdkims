@@ -6,17 +6,17 @@
 ## 🏆 Key Projects & Achievements
 
 - 🚀 **Hamaroom** ([hamaroom.com](https://hamaroom.com))  
-  Currently leading the development of a personalized lesson platform, enabling educators to manage sessions, students, and feedback efficiently.
+  Leading the development of an AI-powered agent service that reduces administrative workload for teachers and improves operational efficiency.
 
 - 🏫 **TeacherLine** ([teacherline.net](https://teacherline.net))  
-  Developed a modern educational platform that streamlines communication and curriculum management between teachers and learners.
+  Developed a recruitment platform exclusively for educators, streamlining the hiring process and improving candidate management.
 
 - 🧠 **Linkerverse**  
-  Contributed to the development of this platform, which received the **CES Innovation Award** for its AI-driven educational solutions.  
+  Contributed to the development of a health analysis service using nail images, which was honored with the **CES Innovation Award**.  
   Responsibilities included:
 
   - Designing and implementing the AI image analysis pipeline  
-  - Developing deep learning models for classification, detection, and segmentation  
+  - Developing deep learning models for health-related image classification and segmentation  
   - Deploying and optimizing models for production environments
 
 ---
