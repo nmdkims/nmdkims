@@ -38,7 +38,7 @@
 ## 📬 Contact
 
 - 📧 Email: **nmdkims@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/nmdkims](https://linkedin.com/in/nmdkims)
+- 💼 LinkedIn: [[linkedin.com/in/nmdkims](https://linkedin.com/in/nmdkims)](https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80/)
 
 ---
 
